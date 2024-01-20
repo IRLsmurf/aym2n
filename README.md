@@ -1,2 +1,2 @@
-# qb-robbery script 
-qb-Robbery
+# qb-scroeboard script via phone 
+this is simple script for you guys !
